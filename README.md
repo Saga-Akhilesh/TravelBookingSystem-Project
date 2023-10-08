@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Travelling Ticket Booking Web Application" is a cloud-based project developed using PHP and deployed on Microsoft Azure. This application provides a streamlined and user-friendly platform for booking travel tickets.
+The "Travelling Ticket Booking Web Application" is a cloud-based project developed using PHP and deployed on Infinity-Free Website. This application provides a streamlined and user-friendly platform for booking travel tickets.
 
 ## Features
 
