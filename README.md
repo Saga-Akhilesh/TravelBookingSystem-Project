@@ -19,7 +19,7 @@ The "Travelling Ticket Booking Web Application" is a cloud-based project develop
 ## Technology Stack
 
 - **PHP**: The application is primarily developed using PHP.
-- **Microsoft Azure**: The application is deployed on Microsoft Azure, leveraging its scalability, powerful search capabilities, secure payment gateway integration, real-time booking confirmation, global accessibility, robust security measures, and reliable infrastructure.
+- **SQL**: Used SQL for Database for storing information
 
 ## Files in the Repository
 
