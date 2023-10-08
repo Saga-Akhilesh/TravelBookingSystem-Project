@@ -8,13 +8,8 @@ The "Travelling Ticket Booking Web Application" is a cloud-based project develop
 
 - **Search Engine**: The project incorporates a search engine feature that allows users to find available flights, buses, and trains based on their preferences and travel requirements.
 
-- **Payment Gateway Integration**: Integration with Azure's payment gateway services allows for secure and seamless transactions. Users can make payments for their bookings directly on the platform.
+- **Real-time Booking Confirmation**: Real-time booking confirmation is another essential feature of the web application. 
 
-- **Real-time Booking Confirmation**: Real-time booking confirmation is another essential feature of the web application. Azure's messaging and notification services enable instant communication between the application and users.
-
-- **Global Accessibility**: Azure's global presence and high availability ensure that the web application can be accessed from anywhere with an internet connection.
-
-- **Security**: Azure's comprehensive security features, including network security groups, firewalls, and identity and access management, safeguard the application and user data from unauthorized access and potential threats.
 
 ## Technology Stack
 
